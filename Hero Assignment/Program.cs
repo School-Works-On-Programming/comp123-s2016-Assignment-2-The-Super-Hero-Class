@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 /*
  * Author: Christopher Ritchil 
  * Student # : 300702644
- * Date Modified: June 1, 2016
+ * Date Modified: June 10, 2016
+ * Date Created: Jun 01, 2016
  * Description: This program demonstrate COMP123 S2016 SuperHero Assignment #2 requirements
  * Version: 0.2.0
  */
